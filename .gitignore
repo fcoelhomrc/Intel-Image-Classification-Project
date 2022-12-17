@@ -130,7 +130,6 @@ dmypy.json
 
 ####################
 
-# Ignore every trained model
-models
-# ... except this files
+# Avoid pushing trained models
+models/*
 !models/*.md
