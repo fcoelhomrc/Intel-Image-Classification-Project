@@ -135,4 +135,5 @@ models/*
 !models/*.md
 
 # Avoid pushing dataset
-data
+data/*
+!data/*.md
