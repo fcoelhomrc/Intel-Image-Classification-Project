@@ -127,3 +127,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+####################
+
+# Ignore every trained model
+models
+# ... except this files
+!models/*.md
