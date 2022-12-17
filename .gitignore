@@ -133,3 +133,6 @@ dmypy.json
 # Avoid pushing trained models
 models/*
 !models/*.md
+
+# Avoid pushing dataset
+data
